@@ -1,3 +1,5 @@
 github mode on
 
 i am a server engineer and i am working on git
+
+this all about the infrastructure
